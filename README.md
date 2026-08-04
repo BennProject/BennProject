@@ -15,7 +15,7 @@ My coursework and projects include hands-on work with Microsoft Access, relation
 
 ## Projects
 
-* **Relational Database:** Designed a Microsoft Access database for cataloging a personal book collection, including book, author, and genre tables; one-to-many relationships; an ERD; queries; and normalization through 2NF
+* **Relational Database:** Designed a database for cataloging a personal book collection, including book, author, and genre tables; one-to-many relationships; an ERD; and normalization through 2NF
 * **Python:** Completed foundational programs using variables, conditional logic, loops, functions, calculations, and user input
 * **Java:** Built foundational object-oriented and console applications
 * **Spreadsheets:** Used Excel and other spreadsheet applications for data organization, formulas, calculations, and analysis
