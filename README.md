@@ -6,10 +6,12 @@ My coursework and projects include hands-on work with Microsoft Access, relation
 
 ## Current Focus
 
+* Studying toward the AWS Certified Data Engineer – Associate (DEA-C01) certification
 * Strengthening my SQL and Python skills
 * Building a clear portfolio from my coursework and projects
 * Developing practical data cleaning, analysis, and visualization skills
 * Preparing for coursework in data science and cloud computing
+
 
 ## Projects
 
